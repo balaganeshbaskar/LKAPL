@@ -742,9 +742,10 @@ progress {
   transform: translateY(-50%);
 } */
 
-.content-image{
+.content-image
+{
   /* border: 1px solid red; */
-  width:90%;
+  width: 80%;
 }
 
 .content-details {
@@ -788,7 +789,7 @@ progress {
 {
   .catalogue .title
   {
-    font-size: 2rem;
+    font-size: 1.2rem;
   }
 }
 
